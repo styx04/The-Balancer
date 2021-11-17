@@ -1,0 +1,47 @@
+*{
+    background-color: #65baff;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center; 
+    text-transform: capitalize;
+}
+h2{
+    text-align: center;
+
+}
+form{
+    background-color: #65baff;
+    height: max-content;
+    width: 100%;
+    margin-top: 100px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+form input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ddd3d3;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    border-radius: 15px;
+
+}
+form p{
+    background-color: rgb(255, 210, 126);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+#btn{
+    border-radius: 30px;
+    cursor: pointer;
+    padding: 5px 5px 5px 5px;
+}
+#btn:hover{
+    opacity: 0.6;
+    text-shadow: #000000;
+}
